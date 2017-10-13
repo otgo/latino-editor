@@ -1,0 +1,6 @@
+saludo = 'hola'
+ si(saludo == 'hola')
+    escribir('Hola chavales') 
+sino
+    escribir('Adios chavales')
+fin

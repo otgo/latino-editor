@@ -1,0 +1,5 @@
+i= 50
+repetir
+    escribir(i)
+    i++
+hasta (i >= 50)
